@@ -29,7 +29,6 @@ public partial class Email : ValueObject
 
     public static implicit operator string(Email email)
         => email.ToString();
-
     public static implicit operator Email(string address)
         => new Email(address);
     public override string ToString()

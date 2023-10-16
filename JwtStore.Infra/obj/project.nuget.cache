@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7PuVwdLvmr8N+I58z+IXeaTY0JlAgqGp0yZeydUKve5pOFSWFkdaUfDT0RfPvfUhEGVomsQeWvdVCVuvua5U8g==",
+  "dgSpecHash": "g+ZoSKwGiELzfI9DLvReKJLqhpW8AsbyiyL1Gj0va/dtKUGwAjDM+R8251V2HSCTbqPf80mYfbyvGl9RYYGThw==",
   "success": true,
   "projectFilePath": "C:\\BALTA\\Segurança em API's\\JwtStore\\JwtStore.Infra\\JwtStore.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vitor\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

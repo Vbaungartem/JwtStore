@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Flunt" Version="2.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Context\AccountContext\UseCases\Create\Create.cs" />
+  </ItemGroup>
+
 </Project>

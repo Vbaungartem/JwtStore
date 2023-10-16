@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9Rwuk1ZPsta/c8jvk3VYMgOTk8rI2wYyqCeI5ySR+YDn1P5kfXAT1yFf4Z36yUyLWb8sxUinQ4BDYKbZIU/dOg==",
+  "dgSpecHash": "zlt6E0zgeahYenY3vRsl2oSFQ2rAReDW73nWMN5HLnSwTrzp1qPy39c+ELl6lKuZlJ88I4CgtnWmcLlz7gPM5w==",
   "success": true,
   "projectFilePath": "C:\\BALTA\\Segurança em API's\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
