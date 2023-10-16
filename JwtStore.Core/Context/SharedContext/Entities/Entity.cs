@@ -1,6 +1,6 @@
 using System.Data.Common;
 
-namespace JwtStore.Core.SharedContext.Entities;
+namespace JwtStore.Core.Context.SharedContext.Entities;
 
 public class Entity : IEquatable<Guid>
 {
