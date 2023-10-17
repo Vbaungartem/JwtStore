@@ -6,6 +6,10 @@ builder.AddConfiguration();
 builder.AddDataBase();
 builder.AddJwtAuthentication();
 
+builder.AddAccountContext();
+builder.AddMediator();
+
+
 var app = builder.Build();
 
 app.UseHttpsRedirection();
@@ -14,6 +18,7 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapGet("/", () => "Hello World!");
+app.AddAccountEndPoints();
+
 
 app.Run();

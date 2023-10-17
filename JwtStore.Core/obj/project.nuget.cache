@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zlt6E0zgeahYenY3vRsl2oSFQ2rAReDW73nWMN5HLnSwTrzp1qPy39c+ELl6lKuZlJ88I4CgtnWmcLlz7gPM5w==",
+  "dgSpecHash": "1XK+GoXyskcLM1wf8yVrSf6RY2d9EsaLRFmzn+ZoZ4JO8/eASnHnOVLAkd68nYqgCSJKf8tuKHWTk59gV+c0ig==",
   "success": true,
   "projectFilePath": "C:\\BALTA\\Segurança em API's\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vitor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+    "C:\\Users\\vitor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
